@@ -86,7 +86,7 @@ class _ProfilePageState
                 'ADNAN ANWAR RABBANI'),
             _buildProfileField(
                 'Nomor Induk Mahasiswa:',
-                'A11.2024.15540'),
+                'A11.2002.53427'),
             _buildProfileField(
                 'Fakultas:',
                 'Fakultas Ilmu Komputer'),
